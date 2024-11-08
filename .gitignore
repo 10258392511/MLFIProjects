@@ -4,3 +4,4 @@
 *pkl
 *ckpt*/
 *logs*/
+!DeepHedge/submissions/*
