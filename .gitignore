@@ -5,3 +5,4 @@
 *ckpt*/
 *logs*/
 !DeepHedge/submissions/*
+!InsuranceClaimPred/submissions/*
